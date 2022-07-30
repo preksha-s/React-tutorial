@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "fname": "nita",
+      "lname": "qwertpppp",
+      "email": "prekshasobani96@gmail.compppppp",
+      "pwd": "123456",
+      "confirmPwd": "123456",
+      "gender": "female",
+      "id": 5
+    },
+    {
+      "fname": "asdfg",
+      "lname": "asdf",
+      "email": "sobanipreksha@gmail.com",
+      "pwd": "123456",
+      "confirmPwd": "123456",
+      "gender": "male",
+      "id": 9
+    },
+    {
+      "fname": "smitha",
+      "lname": "sdfg",
+      "email": "preksha.sobani@softobotics.comss",
+      "pwd": "1234",
+      "confirmPwd": "1234",
+      "gender": "female",
+      "id": 14
+    },
+    {
+      "fname": "rita",
+      "lname": "ganji",
+      "email": "sonali@gmail.com",
+      "pwd": "12345",
+      "confirmPwd": "12345",
+      "gender": "female",
+      "id": 15
+    },
+    {
+      "fname": "geeta",
+      "lname": "sdfg",
+      "email": "org.admin@gmail.com",
+      "pwd": "12345",
+      "confirmPwd": "12345",
+      "gender": "female",
+      "id": 16
+    },
+    {
+      "fname": "sdf",
+      "lname": "asdf",
+      "email": "soni@g.com",
+      "pwd": "1234",
+      "confirmPwd": "1234",
+      "gender": "female",
+      "id": 17
+    },
+    {
+      "fname": "sdf",
+      "lname": "gett",
+      "email": "geet@g.co",
+      "pwd": "12345",
+      "confirmPwd": "12345",
+      "gender": "female",
+      "id": 18
+    },
+    {
+      "fname": "sdf",
+      "lname": "sdfg",
+      "email": "prekshasobani96@gmail.com",
+      "pwd": "12345",
+      "confirmPwd": "12345",
+      "gender": "female",
+      "id": 19
+    },
+    {
+      "fname": "sdf",
+      "lname": "awsd",
+      "email": "rtyee@g.com",
+      "pwd": "123456",
+      "confirmPwd": "123456",
+      "gender": "female",
+      "id": 20
+    },
+    {
+      "fname": "asdfsdfgh",
+      "lname": "asdfgAAAA",
+      "email": "qwert@g.com",
+      "pwd": "123456",
+      "confirmPwd": "123456",
+      "gender": "female",
+      "id": 21
+    }
+  ]
+}

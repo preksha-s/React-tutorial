@@ -1,0 +1,33 @@
+
+label {
+  font-weight: bold;
+  display: flex;
+  margin-bottom: 5px;
+}
+
+
+.form-inline {
+  border: 2px solid;
+  padding: 26px;
+  margin: 59px;
+  border-radius: 20px;
+  background: #d1dbe9;
+}
+
+.form-control {
+  margin-bottom: 20px;
+}
+
+
+
+.btn-purple{
+  background-color: #505d95!important;
+  color: white!important;
+}
+.text-purple{
+  color:  #505d95!important;
+
+}
+body{
+  height: 100vh;
+}
